@@ -1,10 +1,3 @@
-/* eslint-disable no-else-return */
-/* eslint-disable prefer-exponentiation-operator */
-/* eslint-disable no-bitwise */
-/* eslint-disable no-restricted-globals */
-/* eslint-disable no-plusplus */
-/* eslint-disable prettier/prettier */
-/* eslint-disable no-undef */
 /* *******************************************************************************************
  *                                                                                           *
  * Please read the following tutorial before implementing tasks:                              *
